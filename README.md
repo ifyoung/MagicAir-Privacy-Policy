@@ -1,8 +1,5 @@
-<pre>
-<div style="text-align:center;">
-	<span style="font-family:&quot;">MagicAir隐私</span><span style="font-family:&quot;">政策</span>
-</div>
-MagicAir尊重并保护所有使用服务用户的个人隐私权。为了给您提供更准确、更有个性化的服务，MagicAir会按照本隐私权政策的规定使用和披露您的个人信息。但MagicAir将以高度的勤勉、审慎义务对待这些信息。除本隐私权政策另有规定外，在未征得您事先许可的情况下，MagicAir不会将这些信息对外披露或向第三方提供。MagicAir会不时更新本隐私权政策。 </pre>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;MagicAir隐私政策 <br />
+MagicAir尊重并保护所有使用服务用户的个人隐私权。为了给您提供更准确、更有个性化的服务，MagicAir会按照本隐私权政策的规定使用和披露您的个人信息。但MagicAir将以高度的勤勉、审慎义务对待这些信息。除本隐私权政策另有规定外，在未征得您事先许可的情况下，MagicAir不会将这些信息对外披露或向第三方提供。MagicAir会不时更新本隐私权政策。
 <pre>您在同意MagicAir服务使用协议之时，即视为您已经同意本隐私权政策全部内容。本隐私权政策属于MagicAir服务使用协议不可分割的一部分。 </pre>
 <pre>1. 适用范围
 a) 我们在您使用服务过程中收集的信息:
@@ -35,6 +32,4 @@ c) 通过MagicAir所设cookies所取得的有关信息，将适用本政策。
  
 6. 信息安全
 a) MagicAir帐号均有安全保护功能，请妥善保管您的用户名及密码信息。MagicAir将通过对用户密码进行加密等安全措施确保您的信息不丢失，不被滥用和变造。尽管有前述安全措施，但同时也请您注意在信息网络上不存在“完善的安全措施”。
-b) 在使用MagicAir网络服务进行网上交易时，您不可避免的要向交易对方或潜在的交易对
- 
-方披露自己的个人信息，如联络方式或者邮政地址。请您妥善保护自己的个人信息，仅在必要的情形下向他人提供。如您发现自己的个人信息泄密，尤其是MagicAir用户名及密码发生泄露，请您立即联络MagicAir客服，以便MagicAir采取相应措施。</pre>
+b) 在使用MagicAir网络服务进行网上交易时，您不可避免的要向交易对方或潜在的交易对方披露自己的个人信息，如联络方式或者邮政地址。请您妥善保护自己的个人信息，仅在必要的情形下向他人提供。如您发现自己的个人信息泄密，尤其是MagicAir用户名及密码发生泄露，请您立即联络MagicAir客服，以便MagicAir采取相应措施。</pre>
